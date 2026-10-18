@@ -30,7 +30,8 @@ cd src
 python train_offline.py --train-shots 160 --valid-shots 12          # → PCA+MLP ψ + ExtraTrees 标量
 python improve_scalars.py                                            # → betaN MLP 标量头
 python audit_scalars.py                                              # → 24-shot 独立审计
-# 合成 hybrid: 见 src/train_save2.py 输出说明; 最终模型 = weights/mlp_hybrid.pkl
+# 最终模型 (v1.1): 259-shot z-floor PCA 配方 + hybrid 标量头 = weights/final_zfloor_hybrid.pkl
+# (via Release v1.1; 训练脚本 src/train_full271_zfloor.py; local 12-shot S=0.9361)
 ```
 
 ## 推理入口（从权重重新生成本次提交的 NPZ）
@@ -52,4 +53,4 @@ python src/build_public_npz.py --dtype float16 # → artifacts/development_candi
 - Apple M-series MacBook, 16GB RAM, 8 逻辑核心, **纯 CPU, 无 GPU**
 - ψ-MLP 训练（38k 帧）: ~10 分钟; 标量 MLP: 4.9 秒; 端到端含数据解析: ~4 分钟; 峰值 RSS ~1.9GB
 - 符合 compute-light badge 标准（单 CPU 2 小时内端到端）
-weights/mlp_hybrid.pkl 从git移除，改由GitHub Release分发
+权重从git移除，改由GitHub Release分发 (v1.0=mlp_hybrid冻结版, v1.1=final_zfloor_hybrid 最终提交版)
