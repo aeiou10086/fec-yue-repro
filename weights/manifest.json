@@ -1,0 +1,699 @@
+{
+  "seed": 42,
+  "source_dir": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train",
+  "split_unit": "whole_shot",
+  "network_used": false,
+  "invalid_files": [],
+  "train": [
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_082ba45d5c.parquet",
+      "sha256": "3ad9fe79ac865d17af5ea27a7b76afeee0ea1c589d4530f58d7164e6976247e2"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_031ec9e642.parquet",
+      "sha256": "3c6675feef613e16cde32487fbfe0fbfb46d593f4dbf52307ac8b5faa87b467e"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_060270e0fb.parquet",
+      "sha256": "98303582492c14be307d8b8583fe28445336f3caefe8489ef98001636c3dbcdd"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_06e8c5f9a9.parquet",
+      "sha256": "2d2b6e0be2da6c58991372f2f85a43df079eb75fbf951dc62c4e210897bf6d8e"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0829bd74bb.parquet",
+      "sha256": "0b50e1be1b5298356e0206de6ff5f2c8faec72ec21ed244dbf43277e33bef60e"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_052ff64198.parquet",
+      "sha256": "f8581a3e1258eaa301d63cde1ccbb9fe581ffaf6fcedf3cf5555f56672b52acc"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_03f7c0f29c.parquet",
+      "sha256": "6774eb9d4ac240e9f4c6ccef069f23bee3c393e23ff6dc5bd87195520b605a7d"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_021c290db2.parquet",
+      "sha256": "10ef9072c55c9497e9c53fda8b2d622d914cbfce246c95594b3c996cb6f4d048"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_07fd5c38d3.parquet",
+      "sha256": "b75136580dbfa1f7788a77f0c4291282da972b4bc3795d4327b2fc229394a292"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0ba7b1288d.parquet",
+      "sha256": "a26e63944a7cd198868247db08ce836d84b37f7d2b10e0ac4b20e8bd221849e2"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0187470e5e.parquet",
+      "sha256": "1e9ae033ea610bd45e522c2ceb81c290b89171de8e3be1436752d4c8313a4c88"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0153569121.parquet",
+      "sha256": "2d7142eccd19c1feb77a51a8f0fa2c970c08f5d0ba26efe12f805203517dae3c"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0695f00ed1.parquet",
+      "sha256": "369b495d26aa74deb9338303c258ed77a478edb55467e25045e85618e3f16d39"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_003ac617f1.parquet",
+      "sha256": "0ee4292fb5484138fb42b8dda9f3b1dae13b9d55fcd7de8c596724a43fc084ed"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_00ab486b95.parquet",
+      "sha256": "f5abc8847af4ff30e332f956eaa8bc8b4b8f79f838ede34a6078d9ff4da10aa6"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0702620d9d.parquet",
+      "sha256": "0b7b05fd2501935d871d7dc131722477f4b6c2fb112a5ce20f94a45835b6b21c"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_040b26a8a8.parquet",
+      "sha256": "52d817f46ff5c84a5088c7e16591e2d6e6f564277814f3bcb9d263971fec5702"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_00bb25ac45.parquet",
+      "sha256": "bb87cb8cab5fd767c7d0a9b1088cf49e6ae8da342bd7e1c1683d96168e221cdf"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_042990e8b7.parquet",
+      "sha256": "d26c271822555cc04858f4aa552393396e9df5c7c6d64a2d56ca94d5fa3bde1e"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0277cf89b3.parquet",
+      "sha256": "b8c9640f329a9a5640f57b3600ae27e1989451f823b7359106c354c89e8f050b"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_051e63d2d6.parquet",
+      "sha256": "f3e293f738933d7d77ab80fab56b26643d1339d990d02b1c2e5bc4e7dd332657"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0823de198e.parquet",
+      "sha256": "06f0504aa67646f76e4bf1ef18071057c435281cf018400e2c268b9921d1fbf4"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08f8fc6c51.parquet",
+      "sha256": "fe631755a89dd20218cfce9ee4c0f10f7bad3a50c9eb6125e5651b6715b2145c"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_001bc5a4ae.parquet",
+      "sha256": "00e3a942d0fabcbc0e118eb29fa7d9d1b20b26c07722988cf9cca22bce138ffc"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_044ae32a74.parquet",
+      "sha256": "cc11dca0b0860bb9525263751cc48888dca5f8b7c169681533326417c3983aad"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_02758af4cf.parquet",
+      "sha256": "4aaea9db993a7c3cf180fd15c17ca7188c54c6e0633cd5f66a884e025fe7e8d1"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0448d620e0.parquet",
+      "sha256": "4b44e35b81b45b4c212e257d6d78d8bc8ce1629d108d506643b54d1f418c363c"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_04399d93a2.parquet",
+      "sha256": "d43f1d14e19d89de8d8aabdd4b94aaf188531f968d117a6e94810eb066ee6e83"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_00d3a26e4f.parquet",
+      "sha256": "f1dd9ab03b6443acd0c4db4a39750ce1b7420835642b7428dff024fdeb41764d"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0482114e8d.parquet",
+      "sha256": "d0f4cb44fdd131dd5585924cd4f485cd71356cc7b5b00b5ce053ce84ca03bda9"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08b78d2531.parquet",
+      "sha256": "a08ddf317801d873417b0f1ffb75ff9667847a7330498e2e7f5a52b7cfc9b80a"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_009875548f.parquet",
+      "sha256": "7f3a5cd138c9aa6f1fd597262ecbfaadf6d21a29d8b04441eb86e48e9a4b56b5"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_02f262a3e4.parquet",
+      "sha256": "66ffd2fafb3c8d425f4a2d5ade841f4f38d8d6fbcc4d17ef1147ce2c8d892b3a"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_07de286bd4.parquet",
+      "sha256": "12b94f35b6640a385e12bfa622eaea52d9cead3456092ec71fff484b29696eec"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0376a7643a.parquet",
+      "sha256": "84325484d843e2118a6d2384114894c7ec98122c42761ff9f9bb8e9a03ad5d53"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0756fc2bdb.parquet",
+      "sha256": "a6437d3efad031c9aa7cc2386e9a69f36cb61d707ab32f70b0224af5b48e16ae"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_037bf7ca0b.parquet",
+      "sha256": "5c49cebfeb88e62c68670eb5940f5781798365059515fcb4f384d917fd7bdaa8"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_066ac33f57.parquet",
+      "sha256": "8c6969d2928a92433334f7db80e1917342e8a3057d793708ea77b9562a96f304"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0079897d3b.parquet",
+      "sha256": "61b8bf0e0df480f959cd084e49c3a84b2d1e2354f6034d196cbd9b37e46380b5"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_05828931bb.parquet",
+      "sha256": "bc8877bbd4cd20201562d0f72fcb88e9ef542f1c34b5f954133023ac41ee3608"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08458ce765.parquet",
+      "sha256": "26a19cbea794bd66aabae854cfcd9926b2bacdf792809c760ffda2fd8fb33717"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08eccea51f.parquet",
+      "sha256": "79405531c95e2df37039f95410937e60112450b534e8986bf15eae483fae7683"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0432f58ce7.parquet",
+      "sha256": "156087810916816a187c50e6a8cbb3c666a64e10cce103d568d50fd57f06f9f7"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_011ad66040.parquet",
+      "sha256": "aefbf6aca1f8a10b0f3dc3daca6e8c0990c0be85ef47c71c396461267b28b4fa"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_068f86302e.parquet",
+      "sha256": "992cbb791465ec98c21bc2c18f40645557b819dcdc62d1a4e4aca91f17f3e08a"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_050e6945dc.parquet",
+      "sha256": "43acf5010d0f91eefeebb2e4912f32dad648206a17f9de59faca9e18221a8202"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_06f10c5979.parquet",
+      "sha256": "fffc9116e947f4ea8ebbbc7f37d76d22f8882ffc64a55d825a6eb2db30e0d0c6"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_013ac85065.parquet",
+      "sha256": "cbfbe6937256f90be99c23f65d54d1ee49c62525bf2d90d121eb7bcdc2fa6786"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_008b4474ec.parquet",
+      "sha256": "8563ec76105464a0f5ccf2adcab049091f6162019d49cf328b5a1f1dfe7085eb"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_02d2f3f926.parquet",
+      "sha256": "c1c965dec7a3935ffbddcf149a46a6e586cf9ac5c397b0c5456d8436d7f1914e"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0544105b84.parquet",
+      "sha256": "578fe6455ca7e6dca30d0c28264c5e8ae01ce86667a4bb1ad28ece02cdf355ad"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0040a29bad.parquet",
+      "sha256": "2984ebb1adc3c1dea89a11c9291c6b60d9a06bf66ab1af258fe29ddf23d67210"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_084f9b29c1.parquet",
+      "sha256": "4b6225ec93748871ee0468dbf7bcb713c313c2f878e965624d093a21a231b30f"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0274303a58.parquet",
+      "sha256": "9dc3c9270ca1d6b4fbd470bf7362f29ebeecf035d0d38f9171dbc5f46750c488"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08ffcbc9bb.parquet",
+      "sha256": "bdcc7c80a8b2eb3783004a8eaed9c69c797c8105c1ab19064242488caf578244"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0825eee4da.parquet",
+      "sha256": "e0c159749124548d58d773d4a9ce2b48dbd0f6f8d3d5fa7bf843a1e1705d5f62"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0680f8fc62.parquet",
+      "sha256": "acdc07c96af32870ff14bbd03bb2f2169e836a882c4978339e45a1117d1c1683"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_02b91ace6b.parquet",
+      "sha256": "b59074cdcca926e8b8fed1d281daa8ff9cdf3bc30b1b34def8dc494099cbab2b"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0093deb434.parquet",
+      "sha256": "ba75c17735d4bc2288bc48acf03be37bfb0758b295db1988ca007fb048729eeb"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_03d924e68f.parquet",
+      "sha256": "2a7e871d359f3ab076417728bf1230b92db544c1a1025623bd3ecaa47432a8c9"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_06ec3579ca.parquet",
+      "sha256": "a6db9383dad679a4a37e206155ee5365c6c45feca51ac102336ed2620603f309"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_041d27b1a2.parquet",
+      "sha256": "43b7160eb81fb82a1b69b7f0d66640b5af6a8d6928ed0c310b987b0d0373d673"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_063fee659c.parquet",
+      "sha256": "1b7f8247f1a2b3c8e8d3e0925d6ab3320efde1f7436db14b1e2b8e9bf2fc9dbb"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0348fb3d6d.parquet",
+      "sha256": "e5157a5477300315ddf2e8e28700bfb0208f7d9299208e0aefddffae54ea9451"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_01ed550d6b.parquet",
+      "sha256": "180e3de1220541f1b471ad0c209d43643ed2b9a9ce7dc7f83fe7d82c1ace6ef3"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_03abb11dc9.parquet",
+      "sha256": "53fb063e4540710a6af37c38abd11f1276554a94e6fe03e8a52b701cb30e92d7"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_07072becbe.parquet",
+      "sha256": "6225e6b9c70aceaeea91855f41aea61c54a9d1ced01e930f0bf77101ee1206fc"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_013eb157e3.parquet",
+      "sha256": "4f8244224bfa0f8432210de84ad9f8b11ff65aadaf56f29b41698e4be57b738c"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_05894f0bd3.parquet",
+      "sha256": "1d2334a749e958f085c711e59095e8bd4d7a78c80ea3dcd7e63b295574fb403a"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0335c45cfa.parquet",
+      "sha256": "dea24f4730cbee6de05c706c60e57369a50b64ec64a8dda71874b5a3b9193e32"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08ef8dbdaf.parquet",
+      "sha256": "17239916ea5982112396dadce39e9563b2f780387f0875adbd88540b6d0c9cd1"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_037b3c6295.parquet",
+      "sha256": "b978ea2d1c8dad233b4316d5f2571bbe4ef9b8a7d78c96cf7ba4ad86e9c8e650"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_070d43132c.parquet",
+      "sha256": "51386dfd2e43260ac918bce704b1731ebd950c9900a3681a3fae3eb31ef6f9ad"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_048e117e26.parquet",
+      "sha256": "caf7acd9386e9aa34474f5d1d22c9b17109eddba724b87513580629fd208dcd2"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_046d813167.parquet",
+      "sha256": "197b0d944d04514ce3309b3e60be85f32b7b36fe3e5955595ec9fe62e22d4ad2"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_02f316665f.parquet",
+      "sha256": "3ea648c8ea039cc2a0a5a67720ae45889e3fc8306aaf0f75cbf8292047c650e0"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0679809c2a.parquet",
+      "sha256": "c2feb07c8a6b3c1e014d62f7860c1275c18eb2cacb49a9872ddea2569c66938c"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_041c112c04.parquet",
+      "sha256": "fc96e8e9211e29a7ac379927ce4a698bc61c11372bfc3029ecbf458ee6ff0b67"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0832fb8ff9.parquet",
+      "sha256": "2a71e94b4833a6a4908079d12cc620d9a52c09d9dc61845c6ea6dc57e6d465e7"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_097957d696.parquet",
+      "sha256": "890c69dc048abb45def9e4db9148a1ec7415b59e80bc36a9b3cb9ef82dedff45"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0985c071ef.parquet",
+      "sha256": "4afedae7b186c8539176f102c979b03e3d035ba7f39e6e14dda88d4788f1cc99"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_076f2080c0.parquet",
+      "sha256": "703444e85c1fecca7443bc3d5327360f9247f1cce849194c110ea5582a0085d1"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_06e752be5e.parquet",
+      "sha256": "42f1f0434455ac38961e2e81461a51a673ce1e4846c24d3585f3f91ca4545bd0"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_058df5852b.parquet",
+      "sha256": "32ce9c3802c7da9328c7c76bcb1ed71098dd2bb90f8e85457929bbb999c8036e"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_027d46b146.parquet",
+      "sha256": "3b7eff354cf448e7b59f93656d2e7536a93d5b261c8ba622012ca4315684e092"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0003ff34e7.parquet",
+      "sha256": "6892d65616a7c033dde3888befb452a920aa7043856e40aa467cc836746181cc"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_02d447f0c8.parquet",
+      "sha256": "d6efe4110e96b344682458ebe63397488242a47bd60106abad2f1b1aa7dca1d2"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0532f79c80.parquet",
+      "sha256": "7cf75745aa5491e7f973a600135ca44dca88435fbac6cfca37076803df7c7a35"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_04fd5dcd2b.parquet",
+      "sha256": "c454f467d929e74a9facf089a077853f3c893fb16b51dca9c331a227a77534e3"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0513f133a5.parquet",
+      "sha256": "cf6b8eb3edef2d68eff1c013cf40ed587904c64af78e782500c42cc1efb86d5f"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_03a2088dca.parquet",
+      "sha256": "9aa5b7af4bb79ba86c53dcb2cba401e97a529b633d7daa93ee37692f153584d0"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0409a2c96c.parquet",
+      "sha256": "8f5af2fc88081bb59a1858f618faa0d3ea6fe224e5adef75ca75184a3d60e312"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_050b7e6cc2.parquet",
+      "sha256": "646d105a13ac8a580b3ea330e3d1f8eea354d7bf2a76596c075ff718da1533f2"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0652ec4f77.parquet",
+      "sha256": "78c4a8828ea6b979bee43443c7544f366fc7dbede7829980da108a5989b011ad"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0b92fb631b.parquet",
+      "sha256": "927d875068499414234114079d4a808a16e3bd186797bd3481b48b7647a94b14"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_02c92316b3.parquet",
+      "sha256": "0ca47b28bf0ff60d84be494fb648945c4972807f9c9ccae2f7450faf34962883"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_043944a85e.parquet",
+      "sha256": "a17ce01963637b4ed4e9517a7ab82d254a3e85beb23b5e1737e8586b56c73e93"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0100c25bd9.parquet",
+      "sha256": "27a0dad6378c302832beb62bbe9eb9f388840869b88c6ffe020152390884d73b"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_079b3ff219.parquet",
+      "sha256": "acd4a1405cdd27d3196e19f55af09057a5d26cc77a278d007029a11110db13b9"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_06df9d1cf8.parquet",
+      "sha256": "72e1aed69c3c7cb0c66b2b225d55ea9e6e86e359593a0eda056d04c8d602a246"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_085adeee55.parquet",
+      "sha256": "3e9f7c5bfea8513c82a6178be13fee377006e6ec84111c98a977c8397fbf6a68"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_065af5741d.parquet",
+      "sha256": "355f2f67296baa9c8b64abcb3026c27eca2434ff42a55f7291317fe26f195689"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0b9dc70c58.parquet",
+      "sha256": "744bfa2d38a144932116ece15f994b37f74a8fb4622dfe3ddabe6a810be566fa"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_001554e054.parquet",
+      "sha256": "278ea5b461adfd50d82bd69f2ecf5fc79439b70664a95072c95aafadc72c9ee6"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_01f9015527.parquet",
+      "sha256": "ac56efe1965c70c212c65b18d996598e922fb6329de93dc90adae15e3cd22340"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0982ba2cac.parquet",
+      "sha256": "33cb820d700ea39097f5c5eeb744f9db214da326cc1eb5837832d8d139bb6bd2"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0656e84b7d.parquet",
+      "sha256": "92b12cff1e1dcb45e68d4f69a087cca9886fdf9c77f94e980c90d1834dbfcd44"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_05e1af6ceb.parquet",
+      "sha256": "f82a254f0e28b966e160bb8b482961df6af5fbd18b4825c769bacdeddf758b92"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_025d80ba61.parquet",
+      "sha256": "aaa678a8d62e7f57df583423cd020e58eeb453469d4db9e937ceceede8c359d3"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0594f70586.parquet",
+      "sha256": "3f19ab8d73136d377aa51938cee5d5482b371522a14f26b569bf0d2bdf9434c4"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_033bd3ee47.parquet",
+      "sha256": "15a65209d794d6aee4f8641185bf8c99f866f2e86934bb33740d9e703f78bb43"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_042d77f7b2.parquet",
+      "sha256": "d85aa8029febd4fa8a52f8b16f943701328ae476feb1d3b2b6f2c6dc34667f0e"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08c3a3f160.parquet",
+      "sha256": "93ae65039bcd2188c3d66de77ba099a478f8ab8d02fdf9fb20c5fc99360bb6ca"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_06450fdad2.parquet",
+      "sha256": "7f6a88c7cd1a6d0c3266a7b07c0c69c97ae56416cc7f58e3b89639812166c688"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0112d94419.parquet",
+      "sha256": "078dcaf5552f3946355bd2c42af1127f78c3b6ca5b7ac8e556965625ce626c27"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0065291fe9.parquet",
+      "sha256": "81892beb4913c2aef477bf5805166f90e8917a293dccf5412ec24d2b72328cea"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_012c431151.parquet",
+      "sha256": "c9432e0c47742edf437b58a439482e6696f95e53123410a2fd88a18768e412b5"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_00f71cf526.parquet",
+      "sha256": "a137f0563fa9086b71f59a90cf87aaeee370c8678cb90b5b8dd667910c7773b9"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_04b0e2b7af.parquet",
+      "sha256": "6b199b3392deed4d6857a65ac6ef32b45543b3ffdd1d6f104c70a50d1f2424df"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_01a69bcd85.parquet",
+      "sha256": "7e3365c729d03d27f85b4cb63a5c593ea966e27db93887444b4e749a31d39c98"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0385134d42.parquet",
+      "sha256": "f9b63930373f306004d5bb4e495cc9bf5abae9470f574b9ee735c4f759d2af55"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0625b0de55.parquet",
+      "sha256": "bdf103acc78eeb2cf1f3413d474a936591e4e1fefd666ad5307b4f6deb6aa349"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0662d12bd7.parquet",
+      "sha256": "1a72e02f9db8dcc73c43652bccb56fc7ae350c6ab2b24f18131e540c5510b519"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0150a57d75.parquet",
+      "sha256": "201feb842ea8ee599de812f175c8bff7ae4645ecfec81721e49fa4a5b199f2b5"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08d0ee1ffa.parquet",
+      "sha256": "863644f3fd27ce83d038da40131061f376d71b9108d70d6a06e9672c335a1bc8"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_065ae6b088.parquet",
+      "sha256": "4a03a3f32891e32ea18f3d3ed799328de1726ee0bf5a3015bedb2ae3bc1b51db"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_04d8e5c5b9.parquet",
+      "sha256": "0ce0c88b42fda522d3ac9d8f384d76e1042c2dc59e9484ae979b1c91344c93eb"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_00ee8a5ce0.parquet",
+      "sha256": "88017b1911cb778de06f3e8d17d9eba4f153e9a0218863c217b4c489e08e3819"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0ba428e03f.parquet",
+      "sha256": "8e9ed9679ca43086748b834611e74b3c77a2de3bc91f9ed7d5eaca480b82830b"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_050bc07d20.parquet",
+      "sha256": "41eb955095c81f34d53448aa66f8569c2cef4bbc5d17722f1792a383c4aa929d"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_05aff44a9c.parquet",
+      "sha256": "abcef45727a000cc025ded854671fe40a93bb059cba147b33d63207957b7334e"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_00000a10ac.parquet",
+      "sha256": "07c9e04b7e94fce0788598e66c3b2ad60984aead559a55bf36282dfafe83e8ca"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_083c3d77da.parquet",
+      "sha256": "7a3acbff2c5fcf2d811d64cbf540340a83a9a53bb4742602699bee611c64986c"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_03d7523e2c.parquet",
+      "sha256": "1e54bc451d4fe5d81c44f7c3893a22e77d60c5aeeb33d5597f492a1f9cf3b8f7"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_088eee2130.parquet",
+      "sha256": "6dceb8c56d07ed062317b1549eeeb072b48a7af1182d495db708f9114dcfb456"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_070ed05c8b.parquet",
+      "sha256": "74cb9512ad0e9a1448e9bd5fb2c633b9ce18eb82cdc126a1823155930f92efd0"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_03caea2adf.parquet",
+      "sha256": "695a4310001ffbf66d2181902f39cf400103a43eeee0092f17c92332dab36878"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_01377f9734.parquet",
+      "sha256": "6f57cb53522e354dc410df64a2efd42932737c56fa3acb32bc7bed026b430c46"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_021e399101.parquet",
+      "sha256": "25fe4b9aecbe1ba5303c42ce67a563b17d509f74efeedb46da92ae581b9f59d7"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0569d1a1b1.parquet",
+      "sha256": "d3992a43e6364af3c32df769c8e5d2d2105c28472f6d0289e0917e95e29df408"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_077f2450fa.parquet",
+      "sha256": "26cd5d99a21611ba02de0621aea1174fbc4463eb013a42a097984e4bcfc35ab8"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_09791d618d.parquet",
+      "sha256": "3a09ec8dabac19492bb55f216b41200d130f24ee4f853893e630485251092016"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0040ca9bdc.parquet",
+      "sha256": "6d3dcfd15b711fd4dd8334a54b3a94edeb9d16cbb108fd9683d9b9eaa22d7383"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0bad8b4872.parquet",
+      "sha256": "fb792a7828f52eb0ea4bd4ab61ea7f726b3367f44af60fe3701ae9b2ee42d975"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0834026314.parquet",
+      "sha256": "e24296dbfebcb9c29ff5403589c91de3f404d51e315506298babcd7afdfbc978"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_00f40d3919.parquet",
+      "sha256": "578facf18c83d0f26e77627c7ec27c2c02dea05547ce6f58dced86a075d3dabf"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_065ed0cb68.parquet",
+      "sha256": "f6123eceaa0c99b55db73628e6c00b157b33f47b7e852f8d9350ab0a61cc685d"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_001270afa9.parquet",
+      "sha256": "0eba206295c8b2932eb8fcb57b1dd9a52357590d748212b4066a5b53a3b90b56"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_04588796c7.parquet",
+      "sha256": "33fb3f34fdb34877dcfe79cf7d9a1f7d2661402b2fa0a260d440b6029f1b982b"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_01177bc9fa.parquet",
+      "sha256": "3332165a675eb656a5001b098d9b19864358b80de07aa9b7becf2232e2a7b287"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0737a190c1.parquet",
+      "sha256": "343c6da675859dccf884be4ac9e86915d08dbe3b3c6128070e25b02f5e894bd9"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_05d82c8a23.parquet",
+      "sha256": "36e4ec5e4e783a5066601f07eafdad4b5bee18342cf752746515f3d5d15bd221"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_062ac12e3c.parquet",
+      "sha256": "1083e4eca39f971114bff29064dd0baedb4434385b33cf9a34dd584d9c91ae5d"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0740731033.parquet",
+      "sha256": "06f75c6a68efbe43e8e647eeeafb05546af7b9d1d3c6b9ed1519b3f016879c53"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_04f01d0996.parquet",
+      "sha256": "7febbe8a3e3909f5f0244837cbee767e4d9d7295fb916b5ea33d6f77d6442b54"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_023b8c4740.parquet",
+      "sha256": "f8ce1d8434851a40c9b5977b9d108b6d9e6118eac006ccce977c0a2a21414cd0"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_04cb8b29ac.parquet",
+      "sha256": "9ac3aa520ad3a057f0569f5dbdc7acd6e32b34277f4608da6912a637cfc823dd"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_04a41abdb1.parquet",
+      "sha256": "986d4d7bb07917e0481d5e80864e082abf411ba1c41246e9dd891fc3c1600b57"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0999808a94.parquet",
+      "sha256": "0eb3cf1a7d371811945ca1593eb27ee64a8b2e16520c5c9b5b9c0075bb640c32"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08b0521723.parquet",
+      "sha256": "8d2aab648a862a738dccb2d1605300f12a740072540d282d2bb89c45ae0f3466"
+    }
+  ],
+  "validation": [
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0112bdc95d.parquet",
+      "sha256": "c090d75b19e4a9cf5367423d36e47e4fa60be03426a52667e1faa442fea678bd"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_043557db5d.parquet",
+      "sha256": "7e6414e470ccfdf647805434ca38e190f20c73a8bb02219b4a0e7542843af215"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0302cba207.parquet",
+      "sha256": "5ee54e7a72096cfe4e5561f8631ba1a248cd08eba0949113383dc15567ca3cdb"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0490f3c298.parquet",
+      "sha256": "4ce1cd8389d41e67869cc6e962e967b7104fe620c99776622395baf06ed47bff"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_06f0e74636.parquet",
+      "sha256": "bbc1124cc5aa0d235d107986c86d241916d587b7d85a4a3bc3cde5f2478f1ead"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_04dbf33b19.parquet",
+      "sha256": "2bedaa0372ca0a94b11e90e5f3290c8d9f47c19d5bc83c583156cb526f7b9553"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0761431adf.parquet",
+      "sha256": "8c37cd0ac400751cd3e1fa2b2bb2ce72e63a6a5e4e4fc544de7ef35d1c06d00b"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0184fa5c84.parquet",
+      "sha256": "50faec6b443766587dc3b905da64d074a2ff9c985773f1ac3fb13ef2e0cc0a25"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_059511a991.parquet",
+      "sha256": "90c51dd336817860074a601de40711149f8c1777f3c4d2bba23249da79e5795d"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_08d368f455.parquet",
+      "sha256": "f45bea401814b3d8695fd7057685c0422abf7cd9d0f272cd0aa83151ad7ac4e6"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_068210048d.parquet",
+      "sha256": "b77412977ca5338c3b58ee1e0bd2642618728c311c9a2b5b8e4657880db8afc2"
+    },
+    {
+      "path": "/Users/maseww/projects/tasks/261015_ai4s/competitions/04_physics_systems/fec/hf_dataset/data/diii_d_train/d3d_shot_0bb2817ed1.parquet",
+      "sha256": "8356ecc9669ced97cb9677127b55b68aebe4b0077615f62db1dfc8f21575b344"
+    }
+  ]
+}
