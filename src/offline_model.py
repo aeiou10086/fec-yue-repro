@@ -47,7 +47,10 @@ def predict_features(x, model):
     if x.ndim != 2 or x.shape[1] != len(D3D_MAGNETICS_SIGNALS) or not np.isfinite(x).all():
         raise ValueError('Expected finite (T, 21) input feature matrix')
     x = model['x_scaler'].transform(x)
-    z = model['psi_regressor'].predict(x) * model['z_scale'] + model['z_mean']
+    if model.get('ensemble') and 'psi_regressors' in model:
+        z = np.mean([m.predict(x) for m in model['psi_regressors']], axis=0) * model['z_scale'] + model['z_mean']
+    else:
+        z = model['psi_regressor'].predict(x) * model['z_scale'] + model['z_mean']
     psi = model['pca'].inverse_transform(z).reshape(-1, 65, 65)
     scal = model['scalar_regressor'].predict(x) * model['s_scale'] + model['s_mean']
     return {'psirz': psi.astype(np.float32), 'q95': scal[:, 0].astype(np.float32),
