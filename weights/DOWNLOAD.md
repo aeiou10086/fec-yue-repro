@@ -1,1 +1,3 @@
-weights/mlp_hybrid.pkl -> https://github.com/aeiou10086/fec-yue-repro/releases/download/v1.0/mlp_hybrid.pkl (sha256: 5d1a10862eb303a4301df6be7a2b864bb3ad36317fc83d6c26a8dd2468332850)
+weights/full271.pkl -> https://github.com/aeiou10086/fec-yue-repro/releases/download/v1.1/full271.pkl
+sha256: 965c168a7cda8261889b27a9a4277126de546180f60c24a28bb925d83c4e6f91
+(Frozen hybrid v1.0 remains at v1.0 release)
